@@ -5,7 +5,7 @@ My name is Zhu Siyi. ~~You can visit my blog https://xiaosiyier.tech for more in
 - 🌱 I’m interested in front-end development.
 - 📫 How to reach me: xiaosiyier@outlook.com / qq: 1595988120
 
-Currently working for a state-owned enterprise--just exchanging my time and efforts for a living. No shame. Haven't learned RUST yet, while my programming skills getting RUSTY day by day.
+Currently working as a fullstack engineer---A layman, just exchanging my time and efforts for a living. No shame. Haven't learned RUST yet, while my programming skills getting RUSTY day by day.
 
 Still open to changes and invitations to new chances(to jump out of this boring and old comfort zone). Pay tribute to those who keep coding every day, for making the world so free, amazing, and much more worth-living. I received so much encourages, help and inspirations from you guys. Any problems that I could help, contact me any time.
 
