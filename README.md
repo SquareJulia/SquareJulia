@@ -5,7 +5,9 @@ My name is Zhu Siyi. ~~You can visit my blog https://xiaosiyier.tech for more in
 - 📫 How to reach me: xiaosiyier@outlook.com / qq: 1595988120
 
 I WAS once an engineer, which I am still proud of.
+
 I AM currently an employee, not that technical.
+
 I WILL BE an engineer in the future, hopefully.
 
 
